@@ -1,0 +1,15 @@
+// @import "../../app.sscss";
+
+.cursor{
+  width: 20px;
+  height: 20px;
+  border-radius:50%;
+  border: 1px solid rgb(125, 43, 43);
+  background-color: yellow;
+  position: fixed;
+  z-index: 999;
+
+//   @include mobile{
+//     display: none;
+//   }
+}
